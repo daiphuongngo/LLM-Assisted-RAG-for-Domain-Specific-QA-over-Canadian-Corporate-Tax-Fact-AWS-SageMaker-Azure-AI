@@ -6,7 +6,7 @@
 
 ## **Master, Data Science**
 
-## CSCI E-89B **Natural Language Processing** (Python) (Spring 2026)
+## CSCI E-222 **Large Language Models** (Python) (Spring 2026)
 
 ## Professor: Dmitry V. Kurochkin, PhD, Senior Research Analyst, Faculty of Arts and Sciences Office for Faculty Affairs, Harvard University
 
