@@ -1,4 +1,4 @@
-# LLM-Assisted RAG for Domain-Specific QA over Canadian Corporate Tax Fact Documents
+# LLM-Assisted RAG for Domain-Specific QA over Canadian Corporate Tax Fact Documents on AWS SageMaker and Azure AI Search
 
 ![Harvard_University_logo svg](https://github.com/user-attachments/assets/cf1e57fb-fe56-4e09-9a8b-eb8a87343825)
 
