@@ -1,0 +1,13 @@
+# Common portable environment for EC2 / SageMaker AI Studio / Lambda Cloud
+boto3
+python-dotenv
+jupyterlab
+ipykernel
+numpy
+pandas
+tqdm
+sentence-transformers
+transformers>=4.37.0
+torch
+accelerate
+bitsandbytes
