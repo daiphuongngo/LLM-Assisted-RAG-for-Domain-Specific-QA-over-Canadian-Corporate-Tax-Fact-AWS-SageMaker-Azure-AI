@@ -393,7 +393,7 @@ The next improvements I would prioritize are:
 * a broader benchmark with more error categories,
 * stronger qualitative evaluation examples,
 * more polished citation display,
-* a cleaner distinction between lightweight retrieval-only demos and full local inference paths,
+* a cleaner distinction between lightweight retrieval-only demos and full local inference paths
 * and a more stable cloud deployment path for the chatbot demo.
 
 From a product perspective, the most natural next step would be a more production-oriented service layer around the retrieval-first backend. From a research perspective, the next useful step would be deeper error analysis by question type and chunk type.
